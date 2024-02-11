@@ -11,3 +11,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/
 Program link Hiddify Next for use 
 
 https://github.com/hiddify/hiddify-next/releases
+
+
+
+## Credits.
+[P3TERX](https://github.com/P3TERX/warp.sh) & [yonggekkk](https://github.com/yonggekkk?tab=repositories)
