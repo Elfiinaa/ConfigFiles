@@ -19,6 +19,8 @@ curl -sL "https://api.zeroteam.top/warp?format=sing-box" | grep -Eo --color=neve
 5. Now you can use the resulted config in the Hiddify Next App to circumvent the censorship.
 
 ### Windows:
+
 Use steps of the previous section, but:
+
  - Instead of step 2, Extract [this zip file](https://raw.githubusercontent.com/Elfiinaa/ConfigFiles/main/WoW/WarpIPScanner-Win-v23.11.15.zip) and open the WarpIPEndpointScanner.bat to start the scanner.
  - Instead of step 4, download and run windows version of [Warp-Reg](https://github.com/badafans/warp-reg/releases).
