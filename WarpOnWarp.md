@@ -4,7 +4,7 @@
 
 ## How to make it?
 
-### Android, Linux and Mac:
+### Android, Linux and Mac
 
 1. Copy the [Config file](WoW/WarpOnWarp-HiddifyNext.json) to an editor.
 2. Run the below command in the termux(Android Shell), linux or mac to acquire best working IP/Ports of the Cloudflare Warp. After running select option 1.
@@ -18,9 +18,13 @@ curl -sL "https://api.zeroteam.top/warp?format=sing-box" | grep -Eo --color=neve
 ```
 5. Now you can use the resulted config in the Hiddify Next App to circumvent the censorship.
 
-### Windows:
+### Windows
 
 Use steps of the previous section, but:
 
  - Instead of step 2, Extract [this zip file](https://raw.githubusercontent.com/Elfiinaa/ConfigFiles/main/WoW/WarpIPScanner-Win-v23.11.15.zip) and open the WarpIPEndpointScanner.bat to start the scanner.
  - Instead of step 4, download and run windows version of [Warp-Reg](https://github.com/badafans/warp-reg/releases).
+
+ ## Credits
+ 
+ [Yonggekkk](https://github.com/yonggekkk/warp-yg) for the windows warp IP scanner
